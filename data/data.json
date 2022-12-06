@@ -1,0 +1,134 @@
+[
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "HTML and HTML5 Mastery - Zero to Hero Training in English",
+    "image": "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
+    "desc": "Learn HTML and HTML5 from basics to advance and discover how to start your career as a web developer from scratch.\r\n",
+    "price": 39.99,
+    "quantity": 0,
+    "ratings": 4.9,
+    "instructor": "Rashidul Islam",
+    "students": 954325
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)",
+    "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g0HssmUa--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8sy8ksbubdqyevd2i2n5.png",
+    "desc": "Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS.\r\n",
+    "price": 49.99,
+    "quantity": 0,
+    "ratings": 4.7,
+    "instructor": "Rashidul Islam",
+    "students": 103453
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Tailwind CSS 3.0: Basic to Advanced",
+    "image": "https://i.ytimg.com/vi/lZp4salRFFc/maxresdefault.jpg",
+    "desc": "Learn to build modern websites with TailwindCSS 3.0 step by step and with examples.\r\n",
+    "price": 79.99,
+    "quantity": 0,
+    "ratings": 4.8,
+    "instructor": "Rashidul Islam",
+    "students": 965342
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Complete Guide to Bootstrap 5 with 6 Real World Projects",
+    "image": "https://www.venturelessons.com/wp-content/uploads/2020/05/bootstrap-courses-1128x635.jpg",
+    "desc": "Master the latest version of bootstrap 5 from scratch by coding 5 CSS and 1 SASS real world websites.\r\n",
+    "price": 59.99,
+    "quantity": 0,
+    "ratings": 4.5,
+    "instructor": "Rashidul Islam",
+    "students": 146547
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Javascript Tutorial and Projects Course (2022)",
+    "image": "https://www.tangolearn.com/wp-content/uploads/2021/10/best-javascript-courses.jpg",
+    "desc": "Learn Modern JavaScript from the very start to pro-level & build awesome JavaScript applications.\r\n",
+    "price": 84.99,
+    "quantity": 0,
+    "ratings": 4.8,
+    "instructor": "Rashidul Islam",
+    "students": 235673
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+    "name": "Understanding TypeScript - 2022 Edition",
+    "image": "https://miro.medium.com/max/1400/1*lHnNGaEeAwccbD0jbF9DyQ.jpeg",
+    "desc": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!\r\n",
+    "price": 55.99,
+    "quantity": 0,
+    "ratings": 4.9,
+    "instructor": "Rashidul Islam",
+    "students": 113433
+  },
+  {
+    "id": "dbf7ab3f-b383-4d95-8ab7-f55fcf6fa5f2",
+    "name": "React - The Complete Guide",
+    "image": "https://www.venturelessons.com/wp-content/uploads/2020/03/best-react-courses-scaled.jpg",
+    "desc": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, and way more.\r\n",
+    "price": 94.99,
+    "quantity": 0,
+    "ratings": 4.9,
+    "instructor": "Rashidul Islam",
+    "students": 784245
+  },
+  {
+    "id": "fd52819a-cb78-4510-ad2f-c5bdd888ae78",
+    "name": "Modern React with Redux",
+    "image": "https://s3.amazonaws.com/coursesity-blog/2021/08/Redux_tutorials_courses.png",
+    "desc": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks.\r\n",
+    "price": 84.99,
+    "quantity": 0,
+    "ratings": 4.7,
+    "instructor": "Rashidul Islam",
+    "students": 146000
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Node.js: The Complete Guide to Build RESTful APIs (2022)",
+    "image": "https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
+    "desc": "Learn to build fast, scalable and secure RESTful services with Node, Express and MongoDB, from setup to production.\r\n",
+    "price": 84.99,
+    "quantity": 0,
+    "ratings": 4.8,
+    "instructor": "Rashidul Islam",
+    "students": 145642
+  },
+  {
+    "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+    "name": "Next.js & React - The Complete Guide (incl. Two Paths!)",
+    "image": "https://i.ytimg.com/vi/S8BGdCZg0TQ/maxresdefault.jpg",
+    "desc": "Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!\r\n",
+    "price": 49.99,
+    "quantity": 0,
+    "ratings": 4.7,
+    "instructor": "Rashidul Islam",
+    "students": 945300
+  },
+  {
+    "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+    "name": "MongoDB - The Complete Developer's Guide 2022",
+    "image": "https://cdn.shopify.com/s/files/1/0599/9339/1360/products/MongoDB.png?v=1655214354",
+    "desc": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!\r\n",
+    "price": 79.99,
+    "quantity": 0,
+    "ratings": 4.6,
+    "instructor": "Rashidul Islam",
+    "students": 754000
+  },
+  {
+    "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+    "name": "The Complete Python Pro Bootcamp for 2022",
+    "image": "https://i.ytimg.com/vi/kWEbNBXc2-Y/maxresdefault.jpg",
+    "desc": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!\r\n",
+    "price": 104.99,
+    "quantity": 0,
+    "ratings": 4.9,
+    "instructor": "Rashidul Islam",
+    "students": 103452
+  }
+]
